@@ -112,12 +112,4 @@ const App = () => {
     </Router>
   );
 };
-
-// Detta under är så man använder classer men ej lika vanligt längre
-// class App extends React.Component {
-//   render() {
-//     return <h1>Hello from a class</h1>
-//   }
-// }
-
 export default App;
