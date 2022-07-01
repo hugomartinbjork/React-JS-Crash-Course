@@ -1,1 +1,0 @@
-I really liked this course, suitable for a beginner and up to date. I would recommmend this to anyone who has some but fairly little programming experience to grow and learn the concepts of components, states and the overall react framework.
